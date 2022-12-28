@@ -70,7 +70,7 @@
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intro.Main" />
-      <module name="java-kotlin" />
+      <module name="java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="intro.*" />
