@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7b61254-602e-4aa2-90f5-6045ddfe3349" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Hello.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/ValAndVar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/CalledByJava.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/NamedAndDefaultArgs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java-kotlin/src/intro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java-kotlin/src/intro/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -111,6 +94,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gradlew" type="BashProRunConfiguration" temporary="true">
+      <option name="scriptPath" value="$PROJECT_DIR$/gradlew" />
+      <method v="2" />
+    </configuration>
     <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intro.FunctionsKt" />
       <module name="kotlin-for-java-developers.main" />
@@ -118,17 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro.intro.HelloKt" />
-      <module name="kotlin-for-java-developers.main" />
-      <option name="PROGRAM_PARAMETERS" value="Gregory" />
-      <shortenClasspath name="NONE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValAndVarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro.ValAndVarKt" />
+    <configuration name="NamedAndDefaultArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro.NamedAndDefaultArgsKt" />
       <module name="kotlin-for-java-developers.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,17 +115,17 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.UsingKt" />
+      <item itemvalue="BashSupport Pro.gradlew" />
       <item itemvalue="Kotlin.FunctionsKt" />
-      <item itemvalue="Kotlin.ValAndVarKt" />
-      <item itemvalue="Kotlin.HelloKt" />
+      <item itemvalue="Kotlin.NamedAndDefaultArgsKt" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Kotlin.NamedAndDefaultArgsKt" />
+        <item itemvalue="BashSupport Pro.gradlew" />
         <item itemvalue="Application.UsingKt" />
         <item itemvalue="Kotlin.FunctionsKt" />
-        <item itemvalue="Kotlin.ValAndVarKt" />
-        <item itemvalue="Kotlin.HelloKt" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672162586805</updated>
       <workItem from="1672162588106" duration="2441000" />
-      <workItem from="1672248008382" duration="2102000" />
+      <workItem from="1672248008382" duration="3727000" />
     </task>
     <servers />
   </component>
