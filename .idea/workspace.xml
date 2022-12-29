@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7b61254-602e-4aa2-90f5-6045ddfe3349" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/CalledByJava.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/NamedAndDefaultArgs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/IfAndWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/InChecksAndRanges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/Playground.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/loops.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java-kotlin/src/intro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java-kotlin/src/intro/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Kotlin.PlaygroundKt">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intro.Main" />
       <module name="java" />
@@ -81,32 +82,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingKt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro.UsingKt" />
-      <module name="kotlin-for-java-developers.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="intro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="gradlew" type="BashProRunConfiguration" temporary="true">
-      <option name="scriptPath" value="$PROJECT_DIR$/gradlew" />
-      <method v="2" />
-    </configuration>
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro.FunctionsKt" />
+    <configuration name="IfAndWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlstructures.IfAndWhenKt" />
       <module name="kotlin-for-java-developers.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NamedAndDefaultArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro.NamedAndDefaultArgsKt" />
+    <configuration name="InChecksAndRangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlstructures.InChecksAndRangesKt" />
+      <module name="kotlin-for-java-developers.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlstructures.LoopsKt" />
+      <module name="kotlin-for-java-developers.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaygroundKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controlstructures.PlaygroundKt" />
       <module name="kotlin-for-java-developers.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,18 +112,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.UsingKt" />
-      <item itemvalue="BashSupport Pro.gradlew" />
-      <item itemvalue="Kotlin.FunctionsKt" />
-      <item itemvalue="Kotlin.NamedAndDefaultArgsKt" />
+      <item itemvalue="Kotlin.IfAndWhenKt" />
+      <item itemvalue="Kotlin.InChecksAndRangesKt" />
+      <item itemvalue="Kotlin.LoopsKt" />
+      <item itemvalue="Kotlin.PlaygroundKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PlaygroundKt" />
+        <item itemvalue="Kotlin.InChecksAndRangesKt" />
+        <item itemvalue="Kotlin.LoopsKt" />
+        <item itemvalue="Kotlin.IfAndWhenKt" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Kotlin.NamedAndDefaultArgsKt" />
-        <item itemvalue="BashSupport Pro.gradlew" />
-        <item itemvalue="Application.UsingKt" />
-        <item itemvalue="Kotlin.FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672162586805</updated>
       <workItem from="1672162588106" duration="2441000" />
-      <workItem from="1672248008382" duration="3727000" />
+      <workItem from="1672248008382" duration="11770000" />
     </task>
     <servers />
   </component>
