@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7b61254-602e-4aa2-90f5-6045ddfe3349" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/IfAndWhen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/InChecksAndRanges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/Playground.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/loops.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/Exceptions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/controlstructures/loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/controlstructures/loops.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PlaygroundKt">
+  <component name="RunManager" selected="Kotlin.LoopsKt">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="intro.Main" />
       <module name="java" />
@@ -119,9 +116,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LoopsKt" />
         <item itemvalue="Kotlin.PlaygroundKt" />
         <item itemvalue="Kotlin.InChecksAndRangesKt" />
-        <item itemvalue="Kotlin.LoopsKt" />
         <item itemvalue="Kotlin.IfAndWhenKt" />
         <item itemvalue="Application.Main" />
       </list>
@@ -136,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672162586805</updated>
       <workItem from="1672162588106" duration="2441000" />
-      <workItem from="1672248008382" duration="11770000" />
+      <workItem from="1672248008382" duration="12464000" />
     </task>
     <servers />
   </component>

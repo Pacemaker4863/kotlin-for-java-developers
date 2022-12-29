@@ -1,0 +1,4 @@
+package controlstructures
+
+class Exceptions {
+}
